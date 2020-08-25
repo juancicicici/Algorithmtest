@@ -1,1 +1,5 @@
 # Algorithmtest
+
+使用设定好的ArrayInfo类生成特定格式的json文件，用于测试集和标准集数据的比对
+
+MainActivity中示意了如何使用ArrayInfo，并且提供了图片检测线程，可以用于循环检测图片数据
